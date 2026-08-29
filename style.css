@@ -306,7 +306,6 @@ img{ max-width: 100%; display: block; }
 }
 .section-lead{
   color: var(--text-muted);
-  max-width: 62ch;
   font-size: 1.02rem;
 }
 
